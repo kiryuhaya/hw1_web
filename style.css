@@ -160,7 +160,7 @@ main {
 
 /* Герой-секция */
 .hero {
-    background-image: url('pub.jpg');
+    background-image: url('pub2.jpg');
     color: white;
     padding: 80px 20px;
     text-align: center;
@@ -459,4 +459,5 @@ footer p {
     .nav-menu.active ~ .nav-controls .theme-btn {
         display: none;
     }
+
 }
